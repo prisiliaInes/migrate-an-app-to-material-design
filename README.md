@@ -12,6 +12,8 @@ In this course, Envato Tuts+ instructor Ashraff Hathibelagal will show you how t
 
 Excluding the introduction and conclusion, this repository has a directory for every lesson in this course. Each directory is named after the lesson it belongs to, and is an independent Android Studio project containing all the code written during the course, up to, and including, the lesson.
 
+You can also check out the [starting code for this project](https://github.com/tutsplus/migrate-an-app-to-material-design-starting-project).
+
 ------
 
 These are source files for the Envato Tuts+ course: [Migrate an Android App to Material Design][published url]
